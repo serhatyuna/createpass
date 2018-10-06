@@ -6,6 +6,9 @@
 
 ``` bash
 # clone the project
+git clone https://github.com/serhatyuna/createpass.git
+
+# change directory
 cd createpass
 
 # run the script
