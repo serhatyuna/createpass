@@ -16,3 +16,6 @@ python main.py
 
 # Then follow the instructions
 ```
+
+## LICENSE
+createpass is licensed under the 'GNU General Public License v3.0'
